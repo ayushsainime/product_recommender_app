@@ -1,7 +1,7 @@
 # 🛍️ Product Recommendation System
 
 An end-to-end **Python** and **Machine Learning** project that suggests products to users based on ratings, product content, and peer preferences. Deployed as an interactive web app using **Streamlit**.
-
+link to app - https://appuctrecommenderapp-2rqosjkfphctxfv2udktuw.streamlit.app/
 ---
 
 ## 📖 Overview
